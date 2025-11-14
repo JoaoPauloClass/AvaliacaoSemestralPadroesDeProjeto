@@ -13,6 +13,6 @@ abstract class Relatorio {
         System.out.println("Título: " + titulo);
         System.out.println("Fonte: " + fonte);
         System.out.println("Formato: " + formato);
-        System.out.println("✓ Relatório gerado com sucesso!\n");
+        System.out.println("Relatório gerado com sucesso!\n");
     }
 }
